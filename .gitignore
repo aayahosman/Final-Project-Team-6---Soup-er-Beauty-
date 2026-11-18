@@ -7,3 +7,14 @@ __pycache__/
 dataset2_reddit/exported_threads/
 dataset2_reddit/reddit_csv/
 dataset2_reddit/reddit_all_threads.csv
+# Raw Reddit data
+*.jsonl
+
+# Exported datasets
+*.csv
+
+# DuckDB databases
+*.duckdb
+
+# Export folders
+exported_threads/
