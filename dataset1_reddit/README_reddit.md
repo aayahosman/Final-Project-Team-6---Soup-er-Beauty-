@@ -5,7 +5,7 @@ This dataset contains Reddit threads and associated comments that mention our fi
 
 ### Data Collection
 
-1. Used the provided Reddit Search Engine Streamlit to search for and download Reddit threads/comments for each drama.
+1. Used the provided Reddit Search Engine Streamlit to search for and download Reddit threads/comments by searching the title of each drama.
 2. Exported the thread metadata into separate JSONL files.
 3. Used the thread ids to query the submissions and comments tables in the kdrama_reddit.duckdb database using given code.
 4. Extracted the thread submissions and comments and exported into JSONL files.
