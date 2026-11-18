@@ -1,0 +1,11 @@
+# Raw Reddit data
+*.jsonl
+
+# Exported datasets
+*.csv
+
+# DuckDB databases
+*.duckdb
+
+# Export folders
+exported_threads/
