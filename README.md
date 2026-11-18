@@ -1,4 +1,4 @@
-# Final-Project-Team-6---Soup-er-Beauty-
+# CS 315 Final Project: Team 6 - Soup-er Beauty
 
 ## Reinforcing and Challenging Beauty Standards: Audience Reception to Beauty in Korean Dramas
 
